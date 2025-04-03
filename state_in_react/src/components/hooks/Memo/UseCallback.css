@@ -1,0 +1,30 @@
+.useCallback-btn {
+  margin-top: 2rem;
+  padding: 1.8rem 4.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  border-radius: 1rem;
+  color: #fff;
+}
+.useCallback-section {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+.useCallback-Increment {
+  background-color: #4ade81 !important;
+}
+.useCallback-Increment:hover {
+  background-color: #3db268 !important;
+}
+.useCallback-Decrement {
+  background-color: #f87270 !important;
+}
+.useCallback-Decrement:hover {
+  background-color: #c15a58 !important;
+}

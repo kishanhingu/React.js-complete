@@ -1,0 +1,23 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #001214;
+  color: aliceblue;
+}
+.counter {
+  text-align: center;
+  font-size: 6.2rem;
+  & p {
+    color: #fff;
+    font-size: 6.2rem;
+  }
+  & .odometer {
+    color: #fff;
+    font-size: 16rem;
+  }
+  & .title {
+    color: #fff;
+  }
+}
